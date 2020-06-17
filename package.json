@@ -1,0 +1,11 @@
+{
+	"name": "boilterplate",
+	"productName": "Boilerplate",
+	"version": "0.0.1",
+	"author": "Ethan",
+	"keywords": [
+		"local-addon"
+	],
+	"icon": "icon.svg",
+	"description": "temporary test repo to pull from"
+}
